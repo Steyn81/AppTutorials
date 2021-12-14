@@ -19,11 +19,10 @@ class MainActivity : AppCompatActivity() {
         tvShowAge = findViewById(R.id.tvShowAge)
         etDOB = findViewById(R.id.etDOB)
 
-        /*
         btnGetAge.setOnClickListener {
             btnGetAgeClick()
         }
-        */
+
     }
 
     fun btnGetAgeClick()
